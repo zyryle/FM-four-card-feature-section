@@ -63,6 +63,7 @@ h5 {
 p {
   font-size: 1.5rem;
   color: var(--neutral-grayish-blue);
+  font-weight: 400;
 }
 
 img {

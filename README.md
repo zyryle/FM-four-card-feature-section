@@ -21,7 +21,10 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshots/desktop.png)
-<img align="center" src="./screenshots/mobile.png" alt="mobile design">
+
+<p align="center">
+  <img src="./screenshots/mobile.png" alt="mobile design">
+</p>
 
 ### Links
 
